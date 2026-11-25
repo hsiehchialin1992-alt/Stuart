@@ -1,0 +1,8 @@
+*.xlsx
+*.xls
+*.py
+*.geojson
+*.json
+*_bak.*
+__pycache__/
+*.pyc
